@@ -1,7 +1,7 @@
 # Space X Falcon 9 First Stage Landing Prediction
 
 ## Data Science Capstone Project Report
-- Version 1.0.0 | Released 2025-05-19 | Andres Salamone Lacunza | Final Version
+- Version 1.0.0 | Released 2025-05-23 | Andres Salamone Lacunza | Final Version
 - Version 1.0.0 | Released 2025-05-19 | Andres Salamone Lacunza | Presentation Update Only - Address Format and Typographical Issues
 
 > [!NOTE]
